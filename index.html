@@ -1,16 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Claire Liu - Home</title>
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-</head>
-<body>
-    <div class="container">
-        <img src="path_to_your_photo.jpg" alt="Claire Liu">
-        <h1>Claire Liu</h1>
-        <p>Hello! I'm Claire Liu, a student at New York University, passionate about software development and artificial intelligence. Welcome to my personal website!</p>
-    </div>
-</body>
-</html>
+---
+layout: default
+title: "Home"
+---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
