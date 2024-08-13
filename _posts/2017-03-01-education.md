@@ -8,7 +8,7 @@ layout: post
 _New York, NY, Expected May 2025_  
 * Focus Areas: Algorithms & Data Structure, Operating Systems, Database Systems, Computer Networks, Programming Languages
 
----
+
 
 ### **National Taiwan University**
 **Bachelor of Arts in Economics, Minor in Political Science International Relations**  
