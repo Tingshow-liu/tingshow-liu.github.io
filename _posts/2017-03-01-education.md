@@ -3,7 +3,7 @@ title:  "Education"
 layout: post
 ---
 
-### New York University, Courant Institute of Mathematical Science
+### New York University, Courant Institute
 **M.S. in Computer Science**
 
 ### National Taiwan University
