@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Hi, my name is Ting-Hsiu Liu, and you can also call me Claire. 
+## Hi, my name is Ting-Hsiu Liu. You can also call me Claire 👋
 
 ## Some facts about me
  - I'm from Taiwan
