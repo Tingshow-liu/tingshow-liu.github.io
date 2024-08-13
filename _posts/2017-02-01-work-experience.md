@@ -1,5 +1,4 @@
 <div class="work-experience">
-    <h2>Work Experience</h2>
 
     <section class="job">
         <h3>Orbex Labs / Alien Attorney</h3>
