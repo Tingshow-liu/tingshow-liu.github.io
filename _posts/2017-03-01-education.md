@@ -7,9 +7,7 @@ layout: post
 **Master of Science in Computer Science**  
 _New York, NY, Expected May 2025_  
 Focus Areas: Algorithms & Data Structure, Operating Systems, Database Systems, Computer Networks, Programming Languages
-
 <br><br>
-
 ### **National Taiwan University**
 **Bachelor of Arts in Economics, Minor in Political Science International Relations**  
 _Taipei, Taiwan, Sep 2017 – Jan 2022_  
