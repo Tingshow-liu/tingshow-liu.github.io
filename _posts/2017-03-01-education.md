@@ -3,15 +3,13 @@ title:  "Education"
 layout: post
 ---
 
-### **New York University, Courant Institute of Mathematical Sciences**
-**Master of Science in Computer Science**  
-_New York, NY, Expected May 2025_  
-* Focus Areas: Algorithms & Data Structure, Operating Systems, Database Systems, Computer Networks, Programming Languages
+<h3>New York University, Courant Institute of Mathematical Sciences</h3>
+<p><strong>Master of Science in Computer Science</strong><br>
+New York, NY, Expected May 2025<br>
+Focus Areas: Algorithms & Data Structure, Operating Systems, Database Systems, Computer Networks, Programming Languages</p>
 
-
-
-### **National Taiwan University**
-**Bachelor of Arts in Economics, Minor in Political Science International Relations**  
-_Taipei, Taiwan, Sep 2017 – Jan 2022_  
-* Relevant Coursework: Programming and Business Computing, Machine Learning, Deep Learning, Data Mining, Linear Algebra, Econometrics
+<h3>National Taiwan University</h3>
+<p><strong>Bachelor of Arts in Economics, Minor in Political Science International Relations</strong><br>
+Taipei, Taiwan, Sep 2017 – Jan 2022<br>
+Relevant Coursework: Programming and Business Computing, Machine Learning, Deep Learning, Data Mining, Linear Algebra, Econometrics</p>
 
