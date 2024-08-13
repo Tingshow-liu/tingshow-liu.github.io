@@ -1,6 +1,3 @@
----
-layout: page
----
 
 ## Hi, my name is Ting-Hsiu Liu. You can also call me Claire 👋
 
