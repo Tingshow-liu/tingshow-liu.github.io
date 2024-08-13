@@ -13,4 +13,4 @@ Originally from Taiwan🇹🇼, I've made my way to New York, embracing every ch
 
 Feel free to check out more on the experience page or connect with me via LinkedIn or Email!😊
 
-<img src="https://tingshow-liu.github.io/my_info/Me.jpg" alt="Me" style="width: 241px; height: 178px;">
+<img src="https://tingshow-liu.github.io/my_info/Me.jpg" alt="Me" style="width: 301px; height: 223px;">
