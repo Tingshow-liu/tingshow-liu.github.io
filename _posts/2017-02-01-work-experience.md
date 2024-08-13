@@ -17,7 +17,8 @@ _Taipei, Taiwan, Jul 2022 – Jul 2023_
 - Led machine learning projects that increased digital marketing efficiency by 23.9%.
 - Developed a global business intelligence system, minimizing network latency and enhancing query optimization.
 <br><br>
-### **Data Science Internship**
+### **ASUSTeK Computer Inc. (ASUS)**
+**Data Science Intern**
 _Jul 2021 – Jun 2022_  
 - Built machine learning models to improve digital marketing metrics, increasing EDM open rates and Return on Ad Spending.
 - Automated sales reporting and designed tools for more accurate website traffic tracking, reducing manual work significantly.
