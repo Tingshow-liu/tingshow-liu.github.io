@@ -1,8 +1,6 @@
 ---
 title:  "Education"
-mathjax: true
 layout: post
-categories: media
 ---
 
 ### New York University, Courant Institute of Mathematical Science
