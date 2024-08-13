@@ -3,4 +3,7 @@ title: "About"
 layout: page
 ---
 
-{% include about.md %}
+{% capture readme_content %}
+  {% include about.md %}
+{% endcapture %}
+{{ readme_content | markdownify }}
